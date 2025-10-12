@@ -1,9 +1,9 @@
 {
   "win": {
-    "version": "d3561054768e1641c9e3551826ebfd2d17598973e2d24224713d8f8d2de54438",
-    "pretty_version": "0.1.7",
+    "version": "52056a313709a7af721de0b2f904d8a35954edd67e9050df8cb55fe945e861ff",
+    "pretty_version": "0.1",
     "renpy_version": "8.4.1.25072401",
     "rpu_url": "rpu/win.files.rpu",
-    "rpu_digest": "bd52fc0dc1a2cc815a2fe69194dbc5cf731d2039e55bef9037e23f15a9bbb10f"
+    "rpu_digest": "f19c8c146f4ff1eea5ba4e3d6a6a95d5012ac169ae85f8290c384e6cb2ba46e4"
   }
 }
